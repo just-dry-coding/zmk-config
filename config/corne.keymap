@@ -34,7 +34,7 @@
    &trans &trans &trans &trans &trans &trans   &trans    &kp HOME     &kp UP   &kp END   &trans &trans
    &trans &trans &trans &trans &trans &trans   &trans    &kp LEFT     &kp DOWN &kp RIGHT &trans &trans
    &trans &trans &trans &trans &trans &trans   &trans    &trans       &trans   &trans    &trans &trans
-                        &trans &trans &trans   &kp PG_UP &kp PG_DOWN  &trans
+                        &trans &trans &trans   &kp PG_UP &kp PG_DN  &trans
                         >;
                 };
         };
